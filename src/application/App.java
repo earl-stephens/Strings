@@ -3,7 +3,12 @@ package application;
 public class App {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		//String data type label starts with uppercase S
+		//String is not a primitive data type; it's a class
+		
+		String name = "John";
+		
+		System.out.println(name);
 
 	}
 
